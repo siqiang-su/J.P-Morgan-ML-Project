@@ -1,21 +1,21 @@
 # J.P-Morgan-ML-Project
 In this project, I will solve the Question 3: Discrete choice model and credit card offers. This repository contains a report in pdf format, and Python code that implements the Deep Context-Dependent Choice Model ([Zhang et al. 2025](https://openreview.net/forum?id=bXTBtUjb0c)). The Python code inherits the "ChoiceModel" class from choice_learn package.
 
-## 2. Features
+## 1. Features
 
 *   **Core DeepHalo Model**: Full implementation of the Deep Context-Dependent Choice Model.
 *   **Real-world Data Analysis**: Demonstrates the model's application on a real-world dataset (e.g., LPMC data).
 *   **Synthetic Data Analysis**: Illustrates DeepHalo's capability to capture and model high-order effects using synthetic data.
 *   **Comprehensive Testing**: Includes unit and integration tests to ensure code reliability and correctness.
 
-## 3. Installation
+## 2. Installation
 
-    DeepHalo relies on the `choice_learn` package, which provides foundational tools for choice modeling.
+DeepHalo relies on the `choice_learn` package, which provides foundational tools for choice modeling.
     ```bash
     pip install choice_learn
     ```
 
-## 4. File Structure
+## 3. File Structure
 
 The repository is organized as follows:
 
