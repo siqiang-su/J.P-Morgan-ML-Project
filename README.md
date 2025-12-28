@@ -23,6 +23,6 @@ The repository is organized as follows:
 *   `test_DeepHalo.py`: Provides unit and integration tests for the DeepHalo model.
 *   `LPMC Data.ipynb`: A Jupyter Notebook demonstrating the application of DeepHalo on real-world data (e.g., LPMC dataset) as analyzed in the paper.
 *   `Synthetic Data.ipynb`: A Jupyter Notebook showcasing DeepHalo's performance on synthetic data specifically designed to exhibit high-order contextual effects.
-*   `data/`: Directory to store datasets.
+*   `data/`: Directory to store dataset LPMC. The synthetic data set are too large, so a Python file that generates the dataset is given in the dataset. The original data generation code can be found on the github (https://github.com/Asimov-Chuang/DeepHalo/blob/main/DeepHalo-Code/Data/Synthetic_High_Order_Data.ipynb)
 *   `README.md`: This README file.
 
