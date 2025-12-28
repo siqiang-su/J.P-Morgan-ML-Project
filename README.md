@@ -10,8 +10,8 @@ In this project, I will solve the Question 3: Discrete choice model and credit c
 
 ## 2. Installation
 
-DeepHalo relies on the `choice_learn` package, which provides foundational tools for choice modeling.
-    ```bash
+DeepHalo relies on the `choice_learn` package, which provides foundational tools for choice modeling. User should install `choice_learn` package first:
+    ```
     pip install choice_learn
     ```
 
