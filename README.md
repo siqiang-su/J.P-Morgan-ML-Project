@@ -20,7 +20,7 @@ DeepHalo relies on the `choice_learn` package, which provides foundational tools
 The repository is organized as follows:
 
 *   `DeepHalo.py`: Contains the core implementation of the Deep Context-Dependent Choice Model.
-*   `tests/`: Directory to store the Python testing code `test_DeepHalo.py`, whichi provides unit and integration tests for the DeepHalo model.
+*   `tests/`: Directory to store the Python testing code `test_DeepHalo.py`, which provides unit and integration tests for the DeepHalo model.
 *   `LPMC Data.ipynb`: A Jupyter Notebook demonstrating the application of DeepHalo on real-world data (e.g., LPMC dataset) as analyzed in the paper.
 *   `Synthetic Data.ipynb`: A Jupyter Notebook showcasing DeepHalo's performance on synthetic data specifically designed to exhibit high-order contextual effects.
 *   `data/`: Directory to store dataset LPMC. The synthetic data set are too large, so a Python file that generates the dataset is given in the dataset. The original data generation code can be found on the github (https://github.com/Asimov-Chuang/DeepHalo/blob/main/DeepHalo-Code/Data/Synthetic_High_Order_Data.ipynb)
